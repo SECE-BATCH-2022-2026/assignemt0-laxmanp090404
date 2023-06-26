@@ -1,0 +1,114 @@
+*{
+    font-family: 'Courier New', Courier, monospace;  
+}
+.left{
+    left:0;   
+    background-color:rgb(255, 217, 2);
+    text-align:left;
+    width:100%;
+}
+.right{
+    right: 0;
+    background-color:rgb(208, 208, 208);
+    text-align:left;
+    width:100%;
+
+}
+.split{
+    height:100%;
+    width:50%;
+    position:fixed;
+    z-index:1;
+    top:0;
+    overflow-x: hidden;
+    padding-top:20px;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    border-color: black;
+    border-radius: 4%;
+}
+#name{
+    text-align: center;
+    font-size: larger;
+}
+.contact{
+    padding-left:25px;
+    padding-bottom:1px ;
+    padding-top:1px;
+    background-color: burlywood;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+.competitiveprogramming{
+    
+    background-color: aqua;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    padding-bottom:1px ;
+    padding-top:1px;
+    padding-left: 25px;
+
+}
+.skills{
+    margin-left: 0.8cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    margin-right: 0.8cm;
+    background-color: pink;
+    padding-bottom:1px ;
+    padding-top:1px;
+    padding-left: 25px;
+
+}
+.education{
+    background-color: rgb(227, 255, 14);
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 0.8cm;
+    margin-right: 0.8cm;
+    padding-bottom:1px ;
+    padding-top:1px;
+   
+}
+table,th,td{
+    border:1px solid black;
+}
+.technical{
+    margin-left: 0.8cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    margin-right: 0.8cm;
+    background-color: rgb(244, 169, 181);
+    padding-bottom:1px ;
+    padding-top:1px;
+    padding-left: 25px;
+}
+.lang{
+    margin-left: 0.8cm;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    margin-right: 0.8cm;
+    background-color: rgb(227, 255, 14);
+    padding-bottom:1px ;
+    padding-top:1px;
+    padding-left: 25px;
+}
+.Courproj{
+    padding-left:25px;
+    padding-bottom:1px ;
+    padding-top:1px;
+    background-color: burlywood;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+   
+}
